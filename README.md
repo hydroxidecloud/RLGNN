@@ -1,4 +1,5 @@
-**An RL-Driven Framework for Type-Dimension Co-synthesis of Robotic Mechanisms**
+# An RL-Driven Framework for Type-Dimension Co-synthesis of Robotic Mechanisms
+
 这篇论文所提出的图启发式搜索（GHS）算法，本质上就是一个**“生成 -> 考试 -> 补课”**的无限循环。每一次完整的循环（一轮迭代），系统都会变得比上一轮更聪明。
 
 结合你目前正在编写的 Python 代码，我为你通俗且严谨地拆解这三个阶段到底在干什么：
